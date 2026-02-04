@@ -1,8 +1,8 @@
 
-/* You.holder {
+/* Your CSS Code here. */
+.holder {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
-r CSS Code here. */
